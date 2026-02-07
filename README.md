@@ -1,2 +1,2 @@
-# Finance-in-Africa
+# STOCK PRICE ANALYSIS
 Apple price analysis and prediction
